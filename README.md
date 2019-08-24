@@ -8,3 +8,11 @@ The study will facilitate the Consumer finance company to make correct risk asse
 
 The analysis will eventually help in mitigating the risk of issuing loans that borrower have high potential to default.
 
+
+## Check-out my website and more details. 
+* https://www.eurospottv.com 
+* https://mainframe-forum.blogspot.com 
+* www.linkedin.com/in/mainframe-forum
+* https://www.linkedin.com/company/mainframe-forum
+* https://business.facebook.com/mainframeforum
+* https://twitter.com/eurospottv
