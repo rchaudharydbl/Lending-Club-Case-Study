@@ -10,8 +10,9 @@ The analysis will eventually help in mitigating the risk of issuing loans that b
 
 ![Lending Club Case](https://github.com/rchaudharydbl/Lending-Club-Case-Study/blob/master/Lending%20Case%20Study.JPG)
 
-
 ![Lending Club Case](https://github.com/rchaudharydbl/Lending-Club-Case-Study/blob/master/Box%20Plot.JPG)
+
+![Lending Club Case](https://github.com/rchaudharydbl/Lending-Club-Case-Study/blob/master/Loan%20Information.JPG)
 
 
 # Check-out my website and more details. 
