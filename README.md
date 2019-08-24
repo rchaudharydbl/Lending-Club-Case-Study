@@ -7,3 +7,4 @@ The study will facilitate the Consumer finance company to make correct risk asse
 - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 
 The analysis will eventually help in mitigating the risk of issuing loans that borrower have high potential to default.
+
