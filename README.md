@@ -26,3 +26,6 @@ For more details check out attached PPT.
 * https://business.facebook.com/mainframeforum
 * https://twitter.com/eurospottv
 * https://www.reddit.com/r/Mainframe_Forum/
+
+
+Tags: #machinelearning #programming #technology #IBM #mainframe #COBOL #Python
