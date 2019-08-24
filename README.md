@@ -16,6 +16,7 @@ The analysis will eventually help in mitigating the risk of issuing loans that b
 
 ![Lending Club Case](https://github.com/rchaudharydbl/Lending-Club-Case-Study/blob/master/Loan%20Information.JPG)
 
+For more details check out attached PPT.
 
 # Check-out my website and more details. 
 * https://www.eurospottv.com 
