@@ -19,12 +19,12 @@ The analysis will eventually help in mitigating the risk of issuing loans that b
 For more details check out attached PPT.
 
 # Check-out my website and more details. 
-* https://www.eurospottv.com 
+* https://www.topictrick.com 
 * https://mainframe-forum.blogspot.com 
 * www.linkedin.com/in/mainframe-forum
 * https://www.linkedin.com/company/mainframe-forum
 * https://business.facebook.com/mainframeforum
-* https://twitter.com/eurospottv
+* https://twitter.com/topictrick
 * https://www.reddit.com/r/Mainframe_Forum/
 
 
